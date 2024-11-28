@@ -1,0 +1,47 @@
+.top-container{
+    background-color: #E4F9F5;
+text-align: center;
+    font-family: "Sacramento", serif;
+    font-style: normal;
+    font-size: 300px;
+  }
+  .help{
+    font-weight: 300;
+  }
+
+.hero{
+    font-weight: bold;
+}
+
+.middle-container{
+text-align: center;
+font-size: 100px;
+margin-top: 00px;
+margin-bottom: 00px;
+
+}
+.h2{
+  color: red;
+}
+
+.imag10{
+  margin-right: 3000px;
+  float: right;
+}
+
+.imag11{
+  margin-left: 3000px;
+  float: left;
+}
+.img-description{
+  text-align: right;
+}
+.img-description2{
+  text-align: left;
+}
+.bottom-container{
+  text-align: center;
+  font-family: "Sacramento", serif;
+  font-style: normal;
+  font-size: 200px;   
+}
